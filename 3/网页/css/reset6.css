@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0; padding: 0; font-family: "微软雅黑"; font-size: 12px;}
+a{text-decoration: none;}
+li{list-style: none;}
+img{border: none;}
+.fl{float: left;}
+.fr{float: right;}
+.clear{width: 0px; height: 0px; clear: both;}
+.center{width: 960px; margin: 0 auto;}
+
+.top{width: 100%; height: 110px; background: #fff;}
+.log1{margin-left: 100px; margin-top: 10px; float: left;}
+.log2{margin-left: 50px; margin-top: 25px; float: left;}
+.log3{margin-left: 50px; margin-top: 30px; float: right;position: absolute;}
+
+
+.top ul{ width: 500px; height: 50px;  float:left; margin-top: 5px; margin-left: 150px; }
+.top ul li{float: left; margin-left: 5px;}
+.top ul li a:hover{color: #f00;}
+.top .top_right p{margin-left: 1150px;margin-top: 30px; position: absolute;}
+.top .top_right a{margin-left: 930px;margin-top: 30px; position: absolute; color: red;}
+.top .top_right .ddd1{margin-left: 620px;margin-top: 50px; position: absolute;}
+
+main .nr{height: 850px;}
+main .nr1{height: 280px; }
+main .nr1 .p1{font-size: 22px; color: #000; margin-top: -190px; margin-left: 280px; position: absolute;}
+main .nr1 .p2{margin-top: -130px; margin-left: 280px; position: absolute;}
+main .nr1 .p3{margin-top: -130px; margin-left: 435px; position: absolute;}
+main .nr2{width: 100px; height: 30px;background: #F52C6E;margin-left: 330px; margin-top: -130px;}
+main .nr2 a{font-size: 18px;color: #fff;margin-left: 15px;}
+main .nr .p{margin-top: 150px; font-size: 16px;}
+main .nr .p:hover{color: #F32468;}
+main .nr .p11{margin-top: -22px;margin-left: 115px; font-size: 16px;}
+main .nr .p11:hover{color: #F32468;}
+main .nr .end2{ float: left;}
+main .nr .end2 p:hover{color: #F32468;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+main .dibu{height: 300px;}
+main .dibu .ditop{height: 50px; background: #2F2F2F;}
+main .dibu .ditop li{float: left; color: #fff; margin-left: 50px; margin-top: 15px;}
+main .dibu .ditop li:hover{background: #ED155B}
+main .dibu .ditop2{width: 100%; height: 214px; background: #414141; position: relative;}
+main .dibu .ditop2 .end11{margin-left: 200px; color: #fff; margin-top: 40px; position: absolute;}
+
+ 
+
+
+ 
+

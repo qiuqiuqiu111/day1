@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,li,p,h1,h2,h3,h4,h5,h6{ margin:0; padding:0}
+body{ font-size:12px; line-height:1.7em; color:#666;}
+ul{ list-style:none}
+img{ border:none}
+a{ text-decoration:none; color:#666;}
+a:hover{ text-decoration:underline;}
+.fl{ float:left}
+.fr{ float:right}
+.center{ width:1000px; margin:0 auto;}
+a:hover img {
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+	-webkit-transition: all .2s linear;
+	-moz-transition: all .2s linear;
+	-ms-transition: all .2s linear;
+	transition: all .2s linear;
+}
+.clearfix:after{
+   content:".";/*加一段内容*/
+   display:block;/*让生成的元素以块级元素显示，占满剩余空间*/
+   height:0;/*避免生成的内容破坏原有布局高度*/
+   clear:both;/*清除浮动*/
+   visibility:hidden;/*让生成的内容不可见*/
+  }
+ .clearfix{zoom:1;/*为IE6，7的兼容性设置*/}
+
+header{width: 100%; height: 100px; background: #ccc;}
+
+ header .top .logo{padding: 10px 0px;}
+ header .top div:last-child{padding-top: 50px;}
+ header .top div:last-child li{float: left; margin: -14px 50px;}
+ header nav li a{display: block; width:116px; height:44px; font-size: 14px; color: #f00; font-weight: bold; font-family: "宋体";  right center; text-align: center; line-height: 44px; float: left;}
+ header nav li:last-child a{background: none; float: left;}
+ header nav li a:hover{text-decoration: none;background: #ccc;}
+ header nav li ul{ width: 116px; height:44px; background: #ccc; display: none;}
+ header nav li:hover ul{ display: block; position: absolute; left;}
+  .logl{margin: 0px 0 0 -130px;}
+
+.title{width: 100%; height: 500px;}
+.title h1{text-align: center;color: #DD0252; padding-top: 380px;}
+.title h3{text-align: center;color: #DD0252; padding-top: 20px;}
+.title div {margin: 0 auto;width: 4px;height: 17px;margin-bottom: 20px;}
+main{width: 100%;height: 100%;}
+main .act{width: 965px;margin: 0 auto;margin-bottom: 20px;overflow: hidden;}
+#main{width: 1045px;height: 200px;margin: auto;}
+#main .ben1{height: 460px;width: 1045px;margin: auto; margin-top:470px;position: relative;}
+#main .pic1{width: 501px;height: 70px;background:url(../images/top1.jpg) no-repeat center center #fff;position: absolute;top: 530px;left: 406px;}
+#main .ban ul{border-top:2px solid #000;}
+#main .ban{margin-top: -420px; width: 450px;}
+#main .ban .a1{font-size: 18px; font-weight: bold; margin: -180px 0px 0 280px;}
+#main .ban .a2{font-size: 22px; font-weight: bold; margin: 20px 0px 0 260px; color: #000;}
+#main .ban .a3{font-size: 16px; font-weight: bold; margin: 20px 0px 0 300px;}
+#main .ban .a4{margin: 20px 0px 0 280px;}
+#main .ban .right{width: 100%; margin: -184px 580px; 0 0px;}
+#main .ban .right1{width: 100%; margin: 210px 1px; 0 0px;}
+#main .ban .right2{width: 100%; margin: -390px 580px; 0 0px;}
+#main .ban .right3{width: 100%; margin: 410px 2px; 0 0px;}
+#main .ban .right4{width: 100%; margin: -590px 580px; 0 0px;}
+#main .ban .zi{width: 100%; font-size: 30px; margin: 60px -260px; 0 0px;}
+#main1{width: 1045px;height: 200px;margin: auto;}
+#main1 .mei{width: 200px; height: 200px; background: #F7F7F7;}
+#main .ban .tu1:hover:{transition: all 0.5s; transform:scale(1.2);overflow: hidden;}   
+
+
+
+
+ 
+

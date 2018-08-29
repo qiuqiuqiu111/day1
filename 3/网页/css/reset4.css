@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0; padding: 0; font-family: "微软雅黑"; font-size: 12px;}
+a{text-decoration: none;}
+li{list-style: none;}
+img{border: none;}
+.fl{float: left;}
+.fr{float: right;}
+.clear{width: 0px; height: 0px; clear: both;}
+.center{width: 930px; margin: 0 auto;}
+
+.top{width: 100%; height: 110px; background: #fff;}
+.log1{margin-left: 100px; margin-top: 10px; float: left;}
+.log2{margin-left: 50px; margin-top: 25px; float: left;}
+.log3{margin-left: 50px; margin-top: 30px; float: right;position: absolute;}
+.a111{color: #F62E6F;margin-left: 190px;margin-top: 35px;font-size: 20px; position: absolute;}
+
+
+.top ul{ width: 500px; height: 50px;  float:left; margin-top: 5px; margin-left: 150px; }
+.top ul li{float: left; margin-left: 5px;}
+.top ul li a:hover{color: #f00;}
+.daohang .bj{width: 100%; height: 40px; background: #1D1D1D;}
+.daohang .bj .dh1{width: 810px; height: 40px;}
+.daohang ul li{float: right; margin-left:  12px; margin-top: -10px;}
+.daohang ul li a{font-size: 16px; color: #fff;}
+.daohang ul li:hover{background: #ED145B;}
+.gaohang li ul{ width: 116px; height:176px; background: #ccc; display: none;}
+.daohang li ul li a{background: none;}
+#banner{height: 350px;background: url(../images/banner.jpg) center center;}
+
+main .nr111{height: 2250px;}
+main .nr111 .nr222{width: 300px; height: 440px; background: #fff; position: relative; float: left;}
+main .nr111 .nr222 p{font-size: 15px; color: #000;}
+main .nr111 .nr222 p:hover{color: #E9086A;}
+main .nr111 .nr222 .pp1:hover{transform: scale(1.1); transition: 1s;}
+main .nr111 .nr222 .pp2{margin-top: 47px; position: absolute;}
+main .nr111 .nr222 .pp3{margin-top: 51px; position: absolute; margin-left: 210px;}
+main .nr111 .nr222 .pp3:hover{transform: scale(1.1); transition: 1s;}
+main .nr111 .nr222 .dd9{margin-left: 100px;position: absolute;}
+main .end33{height: 60px;}
+main .end33 .dd9{margin-left: 320px;}
+main .end33 .div{width: 200px; height: 50px; background: #E50150; margin-left: 300px; position: relative;}
+main .end33 .div a{font-size: 18px; color: #fff;margin-left: 35px;margin-top: 10px;position: absolute;}
+
+
+
+
+
+main .dibu{height: 300px;}
+main .dibu .ditop{height: 50px; background: #2F2F2F;}
+main .dibu .ditop li{float: left; color: #fff; margin-left: 50px; margin-top: 15px;}
+main .dibu .ditop li:hover{background: #ED155B}
+main .dibu .ditop2{width: 100%; height: 214px; background: #414141; position: relative;}
+main .dibu .ditop2 .end11{margin-left: 200px; color: #fff; margin-top: 40px; position: absolute;}
+
+ 
+
+
+ 
+

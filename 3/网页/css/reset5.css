@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0; padding: 0; font-family: "微软雅黑"; font-size: 12px;}
+a{text-decoration: none;}
+li{list-style: none;}
+img{border: none;}
+.fl{float: left;}
+.fr{float: right;}
+.clear{width: 0px; height: 0px; clear: both;}
+.center{width: 1090px; margin: 0 auto;}
+
+.top{width: 100%; height: 110px; background: #fff;}
+.log1{margin-left: 100px; margin-top: 10px; float: left;}
+.log2{margin-left: 50px; margin-top: 25px; float: left;}
+
+
+
+.top ul{ width: 500px; height: 50px;  float:left; margin-top: 5px; margin-left: 150px; }
+.top ul li{float: left; margin-left: 5px;}
+.top ul li a:hover{color: #f00;}
+.daohang .bj{width: 100%; height: 40px; background: #1D1D1D;}
+.daohang .bj .dh1{width: 810px; height: 40px;}
+.daohang ul li{float: right; margin-left:  12px; margin-top: -10px;}
+.daohang ul li a{font-size: 16px; color: #fff;}
+.daohang ul li:hover{background: #ED145B;}
+.gaohang li ul{ width: 116px; height:176px; background: #ccc; display: none;}
+.daohang li ul li a{background: none;}
+#banner{height: 350px;background: url(../images/banner.jpg) center center;}
+
+main .top1{height: 3730px;}
+main .top1 .top2{height: 537px;border: 1px #000;}
+main .top1 .top2 .left{width: 700px;float: left; position: relative;}
+main .top1 .top2 .left p{font-size: 18px;color: #000;}
+main .top1 .top2 .left p:hover{color: #ED145B;}
+main .top1 .top2 .left .ww1{margin-top: 60px; position: absolute;}
+main .top1 .top2 .left .ww2{margin-top: 40px; margin-left: 210px; position: absolute;}
+main .top1 .top2 .left .ww1:hover{transform: scale(1.1); transition: 1s;}
+main .top1 .top2 .right{width: 390px; float: right;}
+main .top1 .top2 .right .ww4{margin-top: 60px; margin-left: 206px; position: absolute;}
+main .top1 .top2 .right .ww4:hover{transform: scale(1.2); transition: 1s;}
+
+main .haha{width: 100%; margin-top: 20px; height: 110px; background: #ccc;float: left;position: relative;}
+main .haha img{float: left;}
+main .haha .dd4{margin-left: 0px; position: absolute;}
+main .haha .dd4:hover{transform: scale(1.2); transition: 1s;}
+main .haha .dd3:hover{transform: scale(1.2); transition: 1s;}
+main .haha .dd2:hover{transform: scale(1.2); transition: 1s;}
+main .haha .dd1:hover{transform: scale(1.2); transition: 1s;}
+
+main .bt{height: 640px;margin-top: 180px;}
+main .bt1{height: 50px;}
+main .bt1 li{float: left; margin:10px;  font-size: 18px; color: #000;}
+main .bt1 li:hover{color: #ED145B;}
+main .bt2 .ee1{margin-left: 50px;}
+main .bt2 li{margin-left: 180px;}
+main .bt2 .ee2{margin-top: -130px;margin-left: 800px;}
+main .bt2 .ee2:hover{transform: scale(1.2); transition: 1s;}
+main .bt2 a:hover{color: #ED145B;}
+main .bt2 .ww5{margin-left: 290px;}
+main .bt2 p{font-size: 10px;color: #000;margin: 10px;}
+main .bt2 p:hover{color: #ED145B;}
+main .bt2 .ww6{margin-left: 66px;}
+main .bt2 .dd11{margin-left: 140px; margin-top: 10px;}
+main .bt2 .dd22{margin-left: 140px; margin-top: 10px;}
+main .bt2 .dd33{margin-left: 140px; margin-top: 10px;}
+
+
+
+
+
+
+
+
+
+
+main .dibu{height: 300px;}
+main .dibu .ditop{height: 50px; background: #2F2F2F;}
+main .dibu .ditop li{float: left; color: #fff; margin-left: 50px; margin-top: 15px;}
+main .dibu .ditop li:hover{background: #ED155B}
+main .dibu .ditop2{width: 100%; height: 214px; background: #414141; position: relative;}
+main .dibu .ditop2 .end11{margin-left: 200px; color: #fff; margin-top: 40px; position: absolute;}
+main .dibu .ditop2 img{margin-top: 50px;}
+ 
+
+
+ 
+
